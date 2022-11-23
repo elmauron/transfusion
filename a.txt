@@ -1,0 +1,275 @@
+    1  ls
+    2  pwd
+    3  nano processes.c
+    4  gcc -o processes processes.c
+    5  ls
+    6  ./processes 
+    7  clear
+    8  ls
+    9  nando processes.c
+   10  nano processes.c
+   11  ./processes 
+   12  nano processes.c
+   13  ./processes 
+   14  gcc -o processes processes.c
+   15  ./processes 
+   16  nano processes.c
+   17  gcc -o processes processes.c
+   18  nano processes.c
+   19  gcc -o processes processes.c
+   20  nano processes.c
+   21  gcc -o processes processes.c
+   22  ./processes 
+   23  gcc -o processes processes.c
+   24  ./processes 
+   25  gcc -o processes processes.c
+   26  nano processes.c
+   27  gcc -o processes processes.c
+   28  nano processes.c
+   29  gcc -o processes processes.c
+   30  ./processes 
+   31  ps
+   32  nano processes.c
+   33  gcc -o processes processes.c
+   34  ./processes 
+   35  gcc -o processes processes.c
+   36  nano processes.c
+   37  gcc -o processes processes.c
+   38  ./processes 
+   39  nano processes.c
+   40  gcc -o processes processes.c
+   41  ./processes &
+   42  ps
+   43  nano processes.c
+   44  gcc -o processes processes.c
+   45  ./processes &
+   46  ps
+   47  clear
+   48  ps
+   49  ifconfig
+   50  ip address show
+   51  ip address show |  greo eth0
+   52  ip address show |  grep eth0
+   53  nano processes.c 
+   54  pwd
+   55  cd ..
+   56  ls
+   57  ls -l
+   58  ls
+   59  cd alkimer/
+   60  ls
+   61  nano processes.c
+   62  clear
+   63  pwd
+   64  ls
+   65  cd pro
+   66  ls
+   67  ls -h
+   68  ls -l
+   69  cd C:\Users\alkim\Downloads\bashcrawl-master\entrance
+   70  ls
+   71  clear
+   72  cd ..
+   73  cd entrance/
+   74  ls
+   75  scroll
+   76  ./scroll
+   77  ls
+   78  cat scroll
+   79  ls
+   80  cd cellar/
+   81  ls
+   82  cd armoury/
+   83  ls
+   84  ./potion 
+   85  ls -h
+   86  ls
+   87  cd ..
+   88  cd bash_tutorial-master/
+   89  ls
+   90  cd exercises/
+   91  ls
+   92  cd exercise_
+   93  cd exercise_1
+   94  ls
+   95  cd directory
+   96  cd directoryA
+   97  ls
+   98  cd maybe_here/
+   99  ls
+  100  cd ..
+  101  cd directoryB
+  102  ls
+  103  tail text_file.txt 
+  104  ./program.sh 
+  105  cd solution_1.1/
+  106  ls
+  107  clear
+  108  cd ..
+  109  ls
+  110  cd ..
+  111  ls
+  112  dir
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd bash_tutorial-utn/
+  118  ls
+  119  cd ejercicios/
+  120  ls
+  121  cd ejercicio_6
+  122  ls
+  123  ./permissions.sh 
+  124  ls
+  125  cd ..
+  126  ls
+  127  cd ejercicio_1
+  128  cd carpetaC
+  129  ls
+  130  ls -l
+  131  man ls -l
+  132  ls -l
+  133  nano text_file.txt 
+  134  ls
+  135  pwd
+  136  cd ..
+  137  ls
+  138  cd bash_tutorial-utn/
+  139  ls
+  140  cd ejercicios/
+  141  ls
+  142  cd ejercicio_
+  143  cd ejercicio_1
+  144  ls
+  145  cd carpetaC
+  146  ls
+  147  ls -l
+  148  nano text_file.txt 
+  149  ls -l
+  150  nano text_file.txt 
+  151  ls -l
+  152  nano text_file.txt 
+  153  ls -l
+  154  nano text_file.txt 
+  155  ls -l
+  156  nano text_file.txt 
+  157  ls -l
+  158  ls
+  159  pwd
+  160  cd ..
+  161  cd ejercicio_2
+  162  lsﾃｧ
+  163  ls
+  164  less solution_2.1.txt 
+  165  nano hola
+  166  cd .
+  167  cd ..
+  168  ls
+  169  cd bash_tutorial-utn/
+  170  ls
+  171  cd ejercicios/
+  172  ls
+  173  cd ejercicio_
+  174  cd ejercicio_3
+  175  ls
+  176  mkdir solucion
+  177  ls
+  178  cd so
+  179  cd part1
+  180  ls
+  181  cp UIMDELGKBCYF.txt ../solucion/
+  182  cd ..
+  183  cd part2
+  184  cp part2
+  185  ls
+  186  cd ..
+  187  cd part2
+  188  cp ___+______+_.txt ../solucion/
+  189  cd ..
+  190  ls -l solution/*ls -l solucion/*
+  191  ls
+  192  cd 'data - Copy'/
+  193  ls
+  194  rm *Y*
+  195  ls
+  196  history
+  197  ls
+  198  cd ..
+  199  ls
+  200  cd ..
+  201  ls
+  202  cd ejercicio_4
+  203  ls
+  204  diff ai.txt artificial_intelligence.txt 
+  205  ls
+  206  less elephant.txt | sort
+  207  less elephant.txt | sort > rrr.txt
+  208  less elephant.txt
+  209  less elephant.txt | sort > rrr.txt
+  210  less elephant.txt | sort 
+  211  diff ai.txt artificial_intelligence.txt 
+  212  less elephant.txt | sort 
+  213  ls
+  214  grep fire datascience.txt 
+  215  ls
+  216  cd ..
+  217  cd ejercicio_5
+  218  ls
+  219  unzip comprimido.zip 
+  220  ls
+  221  tar -xf wrapped.tar 
+  222  ls
+  223  cd solution/
+  224  ls
+  225  gunzip solution.txt.gz 
+  226  ls
+  227  less solution.txt 
+  228  ls
+  229  cd ..
+  230  ls
+  231  cd ejercicio_5
+  232  ls
+  233  rm -r solution/
+  234  rm wrapped.tar 
+  235  ls
+  236  cd ..
+  237  cd ejercicio_6
+  238  ls
+  239  ls -l
+  240  chmod a-X permissions.sh 
+  241  ls
+  242  ls -l
+  243  chmox -wx permissions.sh 
+  244  chmod -wx permissions.sh 
+  245  ls -l
+  246  ./permissions.sh 
+  247  chmod 444 permissions.sh 
+  248  ls
+  249  ls -l
+  250  df --help
+  251  echo $GIVEME
+  252  export GIVEME=SOLUTION
+  253  echo $GIVEME
+  254  echo $GIVEME | wc -c
+  255  export GIVEME=casi llegando al fin!
+  256  export GIVEME=casi llegando al fin
+  257  echo $GIVEME | wc -c
+  258  echo $GIVEME | wc 
+  259  echo $GIVEME | wc -c 
+  260  wc --help
+  261  echo $GIVEME | wc -m 
+  262  echo $GIVEME 
+  263  export GIVEME=ABCCHDEFGHIJKLMN荘ﾃ前PQRSTUVWXYZ
+  264  echo $GIVEME 
+  265  export GIVEME=ABCCHDEFGHIJKLMN荘ﾃ前PQRS
+  266  echo $GIVEME | wc -m 
+  267  export GIVEME=ABCCHEFDdADGHIJKLMN荘ﾃ前PQRSDS
+  268  export GIVEME=ABCDEFGHIJKLMﾃ前PQRS
+  269  echo $GIVEME | wc -m 
+  270  export GIVEME=ABCCHDEFGHIJKLMﾃ前PQRS
+  271  echo $GIVEME | wc -m 
+  272  man ping
+  273  top
+  274  ps
+  275  history > a.txt

@@ -1,0 +1,277 @@
+    1  ls
+    2  ./mispruebas.py
+    3  sudo ./mispruebas.py
+    4  ls
+    5  cd UTN/
+    6  ls
+    7  cd arquitectura/
+    8  ls
+    9  cd tp2-elmauron/
+   10  ls
+   11  cd tp2-elmauron/
+   12  ls
+   13  cd TP2/
+   14  ls
+   15  cd 
+   16  ls
+   17  cd snap/
+   18  cd
+   19  ls
+   20  ..
+   21  .
+   22  cd snap/
+   23  ls
+   24  ls firefox/
+   25  ls
+   26  cd Desktop/
+   27  ls
+   28  cd bash_tutorial-utn/
+   29  ls
+   30  cd ASCII-Table-wide.svg 
+   31  l
+   32  zathura Instrucciones.pdf 
+   33  ls
+   34  cd ejercicios/
+   35  ls
+   36  cd ejercicio_1
+   37  ls
+   38  cd carpetaA
+   39  ls
+   40  cd talvez_aca/
+   41  ls
+   42  cd..
+   43  cd ..
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd carpetaB
+   48  ls
+   49  ./programa.sh 
+   50  ls
+   51  ./archivo_de_texto.txt 
+   52  zathura archivo_de_texto.txt 
+   53  cd solution_1.1/
+   54  ls
+   55  cd ..
+   56  ls
+   57  cat archivo_de_texto.txt 
+   58  apt nstall cat
+   59  apt install cat
+   60  car archivo_de_texto.txt 
+   61  cat archivo_de_texto.txt 
+   62  >archivo_de_texto.txt 
+   63  > archivo_de_texto.txt 
+   64  -r archivo_de_texto.txt 
+   65  cat > archivo_de_texto.txt 
+   66  less archivo_de_texto.txt 
+   67  cat > archivo_de_texto.txt 
+   68  ls 
+   69  ls
+   70  cat archivo_de_texto.txt 
+   71  ls -a
+   72  apt install nano
+   73  ls
+   74  nano archivo_de_texto.txt 
+   75  ls
+   76  cd ..
+   77  ls
+   78  cd carpetaC
+   79  ls
+   80  nano text_file.txt 
+   81  ls
+   82  cd ..
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd ejercicio_3
+   87  ls
+   88  ls -a
+   89  ls solucion/
+   90  ls code1
+   91  nano UI
+   92  ls -a
+   93  ls
+   94  cd solucion/
+   95  ls
+   96  cd code2
+   97  ls
+   98  nano ___+______+_.txt
+   99  cd ..
+  100  ls
+  101  cd code1
+  102  ls
+  103  nano UIMGELGKBCUF.txt 
+  104  cd ..
+  105  ls
+  106  cd ejercicios/
+  107  ls
+  108  ls ejercicio_2
+  109  ls
+  110  cd ejercicio_
+  111  cd ejercicio_2
+  112  ls
+  113  nano solution_2.1.txt 
+  114  cd ..
+  115  cd ejercicio_1
+  116  ls
+  117  cd carpetaC
+  118  ls
+  119  -l text_file.txt 
+  120  ls -l
+  121  cd ..
+  122  ls
+  123  cd ejercicios/
+  124  ls
+  125  cd ejercicio_
+  126  cd ejercicio_1
+  127  ls
+  128  ls carpetaB
+  129  cd carpetaB
+  130  ls
+  131  nano archivo_de_texto.txt 
+  132  ls -l
+  133  cd solution_1.1/
+  134  ls
+  135  cd ..
+  136  ls
+  137  ./programa.sh 
+  138  less archivo_de_texto.txt 
+  139  ls
+  140  cd ..
+  141  cd carpetaC
+  142  ls
+  143  nano text_file.txt 
+  144  cd ..
+  145  ls
+  146  cd ejercicio_2
+  147  ls
+  148  cd ..
+  149  cd ejercicio_3
+  150  ls
+  151  cd solucion/
+  152  ls -l
+  153  cd ..
+  154  ls
+  155  cd data/
+  156  ls
+  157  cd ..
+  158  ls
+  159  mkdir solucion/
+  160  rm solucion/
+  161  rd solucion/
+  162  rdir solucion/
+  163  remove
+  164  delete
+  165  del solucion/
+  166  ls
+  167  solucion/
+  168  cd solucion/
+  169  ls
+  170  ls code
+  171  ls code1
+  172  ls -l
+  173  cd code1
+  174  ls -l
+  175  cd ..
+  176  cd code1
+  177  cd ..
+  178  ls
+  179  cd ..
+  180  ls
+  181  rm -r solucion/
+  182  ls
+  183  mkdir solucion
+  184  ls
+  185  cp code1 solucion/
+  186  cd code1
+  187  ls
+  188  cd ..
+  189  ls
+  190  cp code1 solucion/
+  191  cp
+  192  cp --help
+  193  cp code1 solucion/
+  194  cp -r  code1 solucion/
+  195  cp -r  code2 solucion/
+  196  ls
+  197  cd solucion/
+  198  ls -l
+  199  cd ..
+  200  ls -l solucion/
+  201  rm -r solucion/
+  202  mkdir solucion
+  203  ls
+  204  cp code1 solucion/
+  205  cp --help
+  206  cp
+  207  cp code1 solucion/
+  208  cp code1 solucion/ -r
+  209  cp code2 solucion/ -r
+  210  ls
+  211  cd solucion/
+  212  ls
+  213  cd ..
+  214  ls -l solucion/
+  215  ls -l code1
+  216  ls -l code2
+  217  ls -l solucion/
+  218  ls
+  219  cd data/
+  220  ls
+  221  rm A_X_X_X_Y_X_X 
+  222  rm X_S_X_Y_X_X_X 
+  223  rm X_X_X_I_X_Y_X 
+  224  ls
+  225  rm Y_X_X_X_X_W_X 
+  226  ls
+  227  rm X_X_X_X_O_X_Y 
+  228  ls
+  229  rm X_Y_X_X_X_X_H 
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd ejercicio_4/
+  234  ls
+  235  diff ai.txt artificial_intelligence.txt 
+  236  less elephant.txt | sort
+  237  grep fire datascience.txt 
+  238  cd..
+  239  cd ..
+  240  ls
+  241  cd ejercicio_5
+  242  ls
+  243  unzip comprimido.zip 
+  244  ls
+  245  tar -xf wrapped.tar 
+  246  ls
+  247  cd solution/
+  248  ks
+  249  ls
+  250  gunzip solution.txt.gz 
+  251  ls
+  252  nano solution.txt 
+  253  cd ..
+  254  ls
+  255  cd ejercicio_6
+  256  ls
+  257  ls -l
+  258  chmod a+x permissions.sh 
+  259  ./permissions.sh 
+  260  df
+  261  d
+  262  df
+  263  df --help
+  264  ls
+  265  env
+  266  export GIVEME=ABCDEFGHIJKLMNOPQRS
+  267  echo $GIVEME
+  268  echo $GIVEME |wc -m
+  269  ping
+  270  ping google
+  271  ping www.google.com
+  272  man ping
+  273  top
+  274  history > historia.txt
+  275  ls
+  276  nano historia.txt 
+  277  history > historia.txt
